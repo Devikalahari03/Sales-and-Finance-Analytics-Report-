@@ -1,4 +1,4 @@
-# Excel - Sales and Finance Analytics Project
+# Sales and Finance Analytics Project
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/55e66b87-ec08-48d1-ac22-b21fab55fdf7" />
 
