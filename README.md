@@ -1,5 +1,8 @@
 # Excel - Sales and Finance Analytics Project
 
+https://i.ytimg.com/vi/_cvdqkdSO1s/maxresdefault.jpg
+
+
 💾 Problem Statement:
 
 AtliǪ Hardwares, a leading hardware company specializing in PCs, printers, mice, and computers with a global reach, faces the challenge of optimizing sales and improving net gross margins.
