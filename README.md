@@ -1,6 +1,7 @@
 # Excel - Sales and Finance Analytics Project
 
-https://i.ytimg.com/vi/_cvdqkdSO1s/maxresdefault.jpg
+![Uploading image.png…]()
+
 
 
 💾 Problem Statement:
